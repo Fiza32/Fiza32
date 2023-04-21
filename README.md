@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Faizan Raza</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5WMZqZAw2rVwIYcUkZMFFnaxvmY5UN99ag&usqp=CAU">
+<img align="center" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5WMZqZAw2rVwIYcUkZMFFnaxvmY5UN99ag&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiza32&label=Profile%20views&color=0e75b6&style=flat" alt="fiza32" /> </p>
 
