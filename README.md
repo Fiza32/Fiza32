@@ -1,20 +1,14 @@
-<h1 align="center">Hi 👋, I'm Md Faizan Raza</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<!-- <h1 align="center">Hi 👋, I'm Md Faizan Raza</h1>
+<h3 align="center">A passionate backend developer from India</h3> -->
 <img align="center" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5WMZqZAw2rVwIYcUkZMFFnaxvmY5UN99ag&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiza32&label=Profile%20views&color=0e75b6&style=flat" alt="fiza32" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fiza32" alt="fiza32" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
-
 - 👨‍💻 All of my projects are available at [https://fiza32.github.io/](https://fiza32.github.io/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java**
-
 - 📫 How to reach me **mdfaizan878@gmail.com**
-
-- ⚡ Fun fact **I think I can put a smile on your face**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
