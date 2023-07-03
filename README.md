@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Wellcome <img width="8%" src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif"/> ! I'm Md Faizan Raza</h1>
+<h1 align="center">Welcome <img width="8%" src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif"/> ! I'm Md Faizan Raza</h1>
 
 <br/>
 <br/>
@@ -17,7 +17,7 @@
 Highly Motivated Java Backend Developer with a strong foundation in core JAVA and a 1200+ hour web development course at Masai school.
 Proficient in Java Spring, RESTful APIs, and database management.
 <br/>
-<div align="center"><a target="_blank" href="https://fiza32.github.io/"><img  src="https://img.shields.io/website?url=https%3A%2F%2Fsumatm.github.io%2F"/></a></div>
+<div align="center"><a target="_blank" href="https://fiza32.github.io/"><img  src="https://img.shields.io/website?url=https%3A%2F%2Ffiza32.github.io%2F"/></a></div>
 <div align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Fiza32&label=Profile%20views&color=0e75b6&style=flat" alt="Md Faizan Raza" />
  </div>
