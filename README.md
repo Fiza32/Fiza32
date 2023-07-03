@@ -41,10 +41,6 @@
 
 - 👯 Self Motivated 🤩
 
-- ⚡ Quick learner  😎 
-
-- ⚡ Fun fact **I am An Funny**  🎨
-
 - ⚡ Want to Know More About Experience: &nbsp; Check out My &nbsp;&nbsp; <a target="_blank" href="https://drive.google.com/file/d/1GJOohr6O2VaBL15AXjzmv5oVpdaiV0u2/view?usp=sharing" ><img src="https://img.shields.io/badge/resume-%23AD1457.svg?style=for-the-badge&logo=webpack&logoColor=white" alt="resume"/></a>
 
 
