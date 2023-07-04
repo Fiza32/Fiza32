@@ -6,7 +6,13 @@
 
 <div style=" font-size: medium; color: #A394C6" align=center>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Md+Faizan+Raza+%F0%9F%91%8B%F0%9F%8F%BB;I+I+am+a+Software+Developer+from+India+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+currenlty+learning+Spring" alt="Md Faizan Raza" width="650" height="55">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Md+Faizan+Raza+%F0%9F%91%8B%F0%9F%8F%BB;I+I+am+a+Software+Developer+from+India+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Happy+Coding" alt="Md Faizan Raza" width="650" height="55">
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=I+am+currenlty+learning+Spring" alt="Md Faizan Raza" width="650" height="55">
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
@@ -30,18 +36,15 @@
 
 <br/>
 
-  <h2 align="center"> What I am focusing on 😃</h2>
-
-- 🌱 I’m currently learning **Spring**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, Spring, SQL, Hibernate, Maven**
+  <h2 align="center"> Extra Informations 😃</h2>
 
 - 📫 How to reach me **mdfaizan878@gmail.com** 📩
+
 - 👨‍💻 All of my projects are available at https://fiza32.github.io/
 
 - 👯 Self Motivated 🤩
 
-- ⚡ Want to Know More About Experience: &nbsp; Check out My &nbsp;&nbsp; <a target="_blank" href="https://drive.google.com/file/d/1GJOohr6O2VaBL15AXjzmv5oVpdaiV0u2/view?usp=sharing" ><img src="https://img.shields.io/badge/resume-%23AD1457.svg?style=for-the-badge&logo=webpack&logoColor=white" alt="resume"/></a>
+- ⚡ Check out My &nbsp;&nbsp; <a target="_blank" href="https://drive.google.com/file/d/1GJOohr6O2VaBL15AXjzmv5oVpdaiV0u2/view?usp=sharing" ><img src="https://img.shields.io/badge/resume-%23AD1457.svg?style=for-the-badge&logo=webpack&logoColor=white" alt="resume"/></a>
 
 
 <h3 align="left">Connect with me:</h3>
