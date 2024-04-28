@@ -15,28 +15,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=4000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=I+am+learning+Angular+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Happy+Coding" alt="Md Faizan Raza" width="650" height="55">
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-
-  
-  <p align="center">
-	<a href="https://www.linkedin.com/in/mdfaizan31/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	</a>
-    <a href="mailto:mdfaizan878@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-</p>
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=fiza32.visitor-badge.issue.1&title=Github%20Visitors)
-![Github Followers](https://img.shields.io/github/followers/fiza32?label=Github%20Connection&style=flat)
 </div>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <br/>
 
-  <h2 align="center"> Extra Informations 😃</h2>
+  <h2 align="center"> Extra Info: 😃</h2>
 
 - 📫 How to reach me **mdfaizan878@gmail.com** 📩
 
@@ -45,12 +30,6 @@
 - 👯 Self Motivated 🤩
 
 - ⚡ Check out My &nbsp;&nbsp; <a target="_blank" href="https://drive.google.com/file/d/1GJOohr6O2VaBL15AXjzmv5oVpdaiV0u2/view?usp=sharing" ><img src="https://img.shields.io/badge/resume-%23AD1457.svg?style=for-the-badge&logo=webpack&logoColor=white" alt="resume"/></a>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mdfaizan31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdfaizan31/" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
