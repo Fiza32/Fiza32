@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **mdfaizan878@gmail.com** 📩
 
-- 👨‍💻 All of my projects are available at https://fiza32.github.io/
+- 👨‍💻 Vist my Portfolio website: https://fiza32.github.io/
 
 - 👯 Self Motivated 🤩
 
